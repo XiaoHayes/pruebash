@@ -1,0 +1,2 @@
+# pruebash
+Ejercicios de Bash
